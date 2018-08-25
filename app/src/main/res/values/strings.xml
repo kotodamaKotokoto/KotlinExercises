@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinExercises</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="sample_button_name">sample button</string>
+</resources>
